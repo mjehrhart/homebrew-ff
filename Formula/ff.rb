@@ -3,7 +3,7 @@
   homepage "https://github.com/mjehrhart/homebrew-ff"
   url "https://github.com/mjehrhart/ffind/releases/download/release/ff.tar.gz"
   version "1.0.0"
-  sha256 "6cf3ad51fbecee4dc49809776d5361fc97674dd612898a66d74956955f373c6f"
+  sha256 "492677ade4d3398c06633b7583ab21d7cde3fead0e80fecc966a1f46996958f8"
   license "BSD 2-Clause License"
 
   def install
