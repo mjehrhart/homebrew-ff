@@ -1,4 +1,4 @@
- class ff < Formula
+ class Ff < Formula
   desc "Fast Find is a cli written in rust using rayon parrellism for super fast results."
   homepage "https://github.com/mjehrhart/homebrew-ff"
   url "https://github.com/mjehrhart/ffind/releases/download/release/ff.tar.gz"
